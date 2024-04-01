@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70688616430",
+    "project_id": "file-uploading-a1625",
+    "storage_bucket": "file-uploading-a1625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70688616430:android:724235eafa1f885eec28ff",
+        "android_client_info": {
+          "package_name": "com.example.file_upload_firebas_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLoZZwag58VZXusu6OXbGNuLbPfh23LrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
