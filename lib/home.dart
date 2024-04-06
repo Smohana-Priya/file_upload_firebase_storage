@@ -1,5 +1,4 @@
 import 'dart:io';
-import 'dart:math';
 import 'package:file_picker/file_picker.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/material.dart';
@@ -13,6 +12,7 @@ class Home extends StatefulWidget {
 
 class _HomeState extends State<Home> {
   PlatformFile? pickedFile;
+  UploadTask? uploadTask;
 
   Future selectFile() async {
     final result = await FilePicker.platform.pickFiles();
@@ -24,11 +24,10 @@ class _HomeState extends State<Home> {
   }
 
   Future uploadFile() async {
-    final path = 'files/${pickedFile!.path!}';
+    final path = 'files/${pickedFile!.name}';
     final file = File(pickedFile!.path!);
     final ref = FirebaseStorage.instance.ref().child(path);
-    ref.putFile(file);
-
+    uploadTask = ref.putFile(file);
   }
 
   @override
@@ -69,18 +68,6 @@ class _HomeState extends State<Home> {
             ],
           ),
         ),
-
-        // floatingActionButton: FloatingActionButton(
-        //   onPressed: () async {
-        //     File? selectedImg = await getImgFromGallery(context);
-        //     print('selected img $selectedImg');
-        //     // if (selectedImg != null) {
-        //     //   bool success = await uploadFile(selectedImg);
-        //     //   print(success);
-        //     // }
-        //   },
-        //   child: const Icon(Icons.upload),
-        // ),
       ),
     );
   }

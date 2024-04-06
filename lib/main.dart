@@ -14,7 +14,8 @@ void main() async {
               apiKey: "AIzaSyBLoZZwag58VZXusu6OXbGNuLbPfh23LrM",
               appId: "1:70688616430:android:724235eafa1f885eec28ff",
               messagingSenderId: "70688616430",
-              projectId: "file-uploading-a1625"),
+              projectId: "file-uploading-a1625",
+              storageBucket: 'file-uploading-a1625.appspot.com'),
         )
       : Firebase.initializeApp();
   await signInAnonymously();

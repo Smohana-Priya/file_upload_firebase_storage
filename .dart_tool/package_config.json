@@ -20,12 +20,6 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "bottom_sheet_scaffold",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/bottom_sheet_scaffold-0.1.9",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
       "name": "characters",
       "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/characters-1.3.0",
       "packageUri": "lib/",
@@ -50,28 +44,10 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "csslib",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/csslib-1.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
       "name": "cupertino_icons",
       "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.6",
       "packageUri": "lib/",
       "languageVersion": "2.19"
-    },
-    {
-      "name": "device_info_plus",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/device_info_plus-9.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
-      "name": "device_info_plus_platform_interface",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/device_info_plus_platform_interface-7.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
     },
     {
       "name": "fake_async",
@@ -84,12 +60,6 @@
       "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/ffi-2.1.2",
       "packageUri": "lib/",
       "languageVersion": "3.3"
-    },
-    {
-      "name": "file",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/file-7.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
     },
     {
       "name": "file_picker",
@@ -182,24 +152,6 @@
       "languageVersion": "3.2"
     },
     {
-      "name": "gallery_picker",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/gallery_picker-0.5.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "get",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/get-4.6.6",
-      "packageUri": "lib/",
-      "languageVersion": "2.15"
-    },
-    {
-      "name": "html",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/html-0.15.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
       "name": "http",
       "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/http-1.2.1",
       "packageUri": "lib/",
@@ -210,12 +162,6 @@
       "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
-    },
-    {
-      "name": "intl",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/intl-0.19.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
     },
     {
       "name": "js",
@@ -266,56 +212,8 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "page_transition",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/page_transition-2.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "path",
       "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/path-1.9.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "permission_handler",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/permission_handler-11.3.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.15"
-    },
-    {
-      "name": "permission_handler_android",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.5",
-      "packageUri": "lib/",
-      "languageVersion": "2.15"
-    },
-    {
-      "name": "permission_handler_apple",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/permission_handler_apple-9.4.4",
-      "packageUri": "lib/",
-      "languageVersion": "2.15"
-    },
-    {
-      "name": "permission_handler_html",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/permission_handler_html-0.1.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "permission_handler_platform_interface",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/permission_handler_platform_interface-4.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.14"
-    },
-    {
-      "name": "permission_handler_windows",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/permission_handler_windows-0.2.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "photo_gallery",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/photo_gallery-2.2.1",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -368,12 +266,6 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "transparent_image",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/transparent_image-2.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
       "name": "typed_data",
       "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/typed_data-1.3.2",
       "packageUri": "lib/",
@@ -384,42 +276,6 @@
       "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.14"
-    },
-    {
-      "name": "video_player",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/video_player-2.8.3",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
-    },
-    {
-      "name": "video_player_android",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/video_player_android-2.4.12",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "video_player_avfoundation",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/video_player_avfoundation-2.5.6",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "video_player_platform_interface",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/video_player_platform_interface-6.2.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
-      "name": "video_player_web",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/video_player_web-2.3.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "video_thumbnail",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/video_thumbnail-0.5.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.16"
     },
     {
       "name": "vm_service",
@@ -440,19 +296,13 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "win32_registry",
-      "rootUri": "file:///Users/mohanapriya/.pub-cache/hosted/pub.dev/win32_registry-1.1.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
-    },
-    {
       "name": "file_upload_firebas_storage",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     }
   ],
-  "generated": "2024-04-05T14:59:31.977032Z",
+  "generated": "2024-04-06T14:18:02.023080Z",
   "generator": "pub",
   "generatorVersion": "3.3.0"
 }

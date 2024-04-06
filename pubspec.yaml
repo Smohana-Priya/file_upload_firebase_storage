@@ -14,7 +14,6 @@ dependencies:
   cupertino_icons: ^1.0.6
   firebase_auth: ^4.18.0
   firebase_core: ^2.27.2
-  gallery_picker: ^0.5.1
   firebase_storage: ^11.6.11
   file_picker: ^8.0.0+1
 
