@@ -51,6 +51,8 @@ MERGED from [:firebase_storage] /Users/mohanapriya/Documents/workspace/flutter/i
 MERGED from [:firebase_core] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
 MERGED from [:permission_handler_android] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:photo_gallery] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/photo_gallery/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:file_picker] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:device_info_plus] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/device_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:video_player_android] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/video_player_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:22.3.1] /Users/mohanapriya/.gradle/caches/transforms-3/fe176eadc272ab6b4f3009bb35f8bf57/transformed/jetified-firebase-auth-22.3.1/AndroidManifest.xml:17:1-75:12
@@ -116,6 +118,10 @@ INJECTED from /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upl
 		ADDED from /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/android/app/src/main/AndroidManifest.xml:2:1-76
+MERGED from [:file_picker] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-11:38
+MERGED from [:file_picker] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-11:38
+	android:maxSdkVersion
+		ADDED from [:file_picker] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-35
 	android:name
 		ADDED from /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/android/app/src/main/AndroidManifest.xml:2:18-73
 uses-permission#android.permission.READ_MEDIA_IMAGES
@@ -128,6 +134,8 @@ ADDED from /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload
 		ADDED from /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/android/app/src/main/AndroidManifest.xml:4:18-68
 queries
 ADDED from /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/android/app/src/main/AndroidManifest.xml:41:5-46:15
+MERGED from [:file_picker] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-19:15
+MERGED from [:file_picker] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-19:15
 intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
 ADDED from /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/android/app/src/main/AndroidManifest.xml:42:9-45:18
 action#android.intent.action.PROCESS_TEXT
@@ -154,6 +162,10 @@ MERGED from [:permission_handler_android] /Users/mohanapriya/Documents/workspace
 MERGED from [:permission_handler_android] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/permission_handler_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:photo_gallery] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/photo_gallery/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:photo_gallery] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/photo_gallery/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:file_picker] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:file_picker] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:device_info_plus] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/device_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:device_info_plus] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/device_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:video_player_android] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/video_player_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
@@ -308,6 +320,12 @@ ADDED from [:firebase_core] /Users/mohanapriya/Documents/workspace/flutter/inter
 		ADDED from [:firebase_core] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:13:17-82
 	android:name
 		ADDED from [:firebase_core] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:12:17-124
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-18:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-72
+	android:name
+		ADDED from [:file_picker] /Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/build/file_picker/intermediates/merged_manifest/debug/AndroidManifest.xml:15:21-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:22.3.1] /Users/mohanapriya/.gradle/caches/transforms-3/fe176eadc272ab6b4f3009bb35f8bf57/transformed/jetified-firebase-auth-22.3.1/AndroidManifest.xml:26:5-79
 MERGED from [com.google.firebase:firebase-storage:20.3.0] /Users/mohanapriya/.gradle/caches/transforms-3/a65b238af43106fb820fdd545106f98c/transformed/jetified-firebase-storage-20.3.0/AndroidManifest.xml:23:5-79

@@ -1,9 +1,10 @@
 import 'dart:io';
 
-import 'package:file_upload_firebas_storage/home.dart';
 import 'package:file_upload_firebas_storage/service.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+
+import 'home.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
