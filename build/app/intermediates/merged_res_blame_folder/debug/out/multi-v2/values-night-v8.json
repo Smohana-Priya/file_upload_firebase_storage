@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.file_upload_firebas_storage.app-mergeDebugResources-15:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.file_upload_firebas_storage.app-mergeDebugResources-13:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/Users/mohanapriya/Documents/workspace/flutter/interviews/file_upload_firebase_storage/android/app/src/main/res/values-night/styles.xml",

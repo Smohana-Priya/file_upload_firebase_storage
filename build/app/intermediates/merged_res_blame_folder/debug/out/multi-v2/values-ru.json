@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.file_upload_firebas_storage.app-mergeDebugResources-15:/values-ru/values-ru.xml",
+            "outputFile": "com.example.file_upload_firebas_storage.app-mergeDebugResources-13:/values-ru/values-ru.xml",
             "map": [
                 {
-                    "source": "/Users/mohanapriya/.gradle/caches/transforms-3/41965cd7ef05f39cd0717afd93ecd670/transformed/core-1.7.0/res/values-ru/values-ru.xml",
+                    "source": "/Users/mohanapriya/.gradle/caches/transforms-3/9f4ccde26cbb246027da95c6911de3ea/transformed/core-1.6.0/res/values-ru/values-ru.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -13,11 +13,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "33",
+                        "startLines": "24",
                         "startColumns": "4",
-                        "startOffsets": "3425",
+                        "startOffsets": "2758",
                         "endColumns": "100",
-                        "endOffsets": "3521"
+                        "endOffsets": "2854"
                     }
                 },
                 {
@@ -64,28 +64,11 @@
                         "endOffsets": "158,263,375,480"
                     },
                     "to": {
-                        "startLines": "20,30,31,32",
+                        "startLines": "20,21,22,23",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "2328,3103,3208,3320",
+                        "startOffsets": "2328,2436,2541,2653",
                         "endColumns": "107,104,111,104",
-                        "endOffsets": "2431,3203,3315,3420"
-                    }
-                },
-                {
-                    "source": "/Users/mohanapriya/.gradle/caches/transforms-3/e41b64245a3bfd4295043b8ca3520803/transformed/jetified-exoplayer-core-2.18.7/res/values-ru/values-ru.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,127,188,253,319,397,471,559,645",
-                        "endColumns": "71,60,64,65,77,73,87,85,76",
-                        "endOffsets": "122,183,248,314,392,466,554,640,717"
-                    },
-                    "to": {
-                        "startLines": "21,22,23,24,25,26,27,28,29",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2436,2508,2569,2634,2700,2778,2852,2940,3026",
-                        "endColumns": "71,60,64,65,77,73,87,85,76",
-                        "endOffsets": "2503,2564,2629,2695,2773,2847,2935,3021,3098"
+                        "endOffsets": "2431,2536,2648,2753"
                     }
                 }
             ]

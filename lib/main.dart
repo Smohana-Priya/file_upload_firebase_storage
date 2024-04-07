@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:file_upload_firebas_storage/service.dart';
+
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
@@ -18,7 +18,6 @@ void main() async {
               storageBucket: 'file-uploading-a1625.appspot.com'),
         )
       : Firebase.initializeApp();
-  await signInAnonymously();
   runApp(const MaterialApp(
     debugShowCheckedModeBanner: false,
     home: Home(),

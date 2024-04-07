@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.file_upload_firebas_storage.app-mergeDebugResources-15:/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "com.example.file_upload_firebas_storage.app-mergeDebugResources-13:/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/Users/mohanapriya/.gradle/caches/transforms-3/08d6610f8129e4c77e7e4010b607cc38/transformed/jetified-play-services-basement-18.3.0/res/values-pt-rBR/values.xml",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mohanapriya/.gradle/caches/transforms-3/41965cd7ef05f39cd0717afd93ecd670/transformed/core-1.7.0/res/values-pt-rBR/values-pt-rBR.xml",
+                    "source": "/Users/mohanapriya/.gradle/caches/transforms-3/9f4ccde26cbb246027da95c6911de3ea/transformed/core-1.6.0/res/values-pt-rBR/values-pt-rBR.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -68,7 +68,7 @@
 44    <application
 45        android:name="android.app.Application"
 46        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-46-->[androidx.core:core:1.7.0] /Users/mohanapriya/.gradle/caches/transforms-3/41965cd7ef05f39cd0717afd93ecd670/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+46-->[androidx.core:core:1.6.0] /Users/mohanapriya/.gradle/caches/transforms-3/9f4ccde26cbb246027da95c6911de3ea/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 47        android:debuggable="true"
 48        android:icon="@mipmap/ic_launcher"
 49        android:label="file_upload_firebas_storage" >
